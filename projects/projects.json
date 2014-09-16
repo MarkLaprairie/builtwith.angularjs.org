@@ -22,6 +22,22 @@
     ]
   },
   {
+    "name": "ZoomCalc.com",
+    "thumb": "zoomcalc.com/thumb.png",
+    "desc": "The instant online calculator notepad.",
+    "url": "http://zoomcalc.com",
+	"info": "http://marklaprairie.com",
+    "submitter": "MarkLaprairie",
+    "submissionDate": "2014-09-15",
+    "tags": [
+      "Production",
+      "Productivity",
+      "Shareable",
+      "jQuery",
+      "Calculator"
+    ]
+  },
+  {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
     "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
